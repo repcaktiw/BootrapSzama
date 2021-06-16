@@ -1,12 +1,16 @@
 # Leniwa Szama - bootstrap project
 
-Project "Leniwa Szama" is a landing page for fake diet catering company. It is simple learning project. Main goal of this project was to practce Boostrap 5.
+Project "Leniwa Szama" is a landing page of fake diet meal delivery company. It is simple learning project. Main goal of this project was to practcie Boostrap 5.
+
+## Work still in progress
+
+Right now working on site layout
 
 ## Project Ovierview
 
-- Simple, bootstrap based site
+Work in progress...
 
-## Used Tools
+## Tools planned to be used
 
 - Bootstrap 5
 - Font awesome
@@ -15,3 +19,5 @@ Project "Leniwa Szama" is a landing page for fake diet catering company. It is s
 - JavaScript
 
 ## Educational Outcomes
+
+- learning Bootstrap 5 in practice
