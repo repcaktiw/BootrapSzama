@@ -13,7 +13,7 @@ Work in progress...
 ## Tools planned to be used
 
 - Bootstrap 5
-- Font awesome
+- Bootstrap 5 icons
 - Leaflet
 - HTML, CSS
 - JavaScript
