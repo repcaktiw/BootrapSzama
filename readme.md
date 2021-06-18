@@ -9,6 +9,7 @@ Right now working on site layout
 ## Project Ovierview
 
 Work in progress...
+Used only one photo for meals carousel in section #posilki, because content was not important in this project. Bootstrap carousel is working like a charm, and that was my goal.
 
 ## Tools planned to be used
 
