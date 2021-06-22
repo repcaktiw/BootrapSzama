@@ -10,6 +10,8 @@ Right now working on site layout
 
 Work in progress...
 Used only one photo for meals carousel in section #posilki, because content was not important in this project. Bootstrap carousel is working like a charm, and that was my goal.
+Used custom JS function to make section #Opinie hide/display next opinions.
+Used leaflet library to make simple "where are we" map. For now it only shows simple popus.
 
 ## Tools planned to be used
 
