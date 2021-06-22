@@ -18,4 +18,4 @@ function slideShowInit() {
 }
 
 // // Calling slideshow
-// slideShow.forEach(slideShowInit);
+slideShow.forEach(slideShowInit);
