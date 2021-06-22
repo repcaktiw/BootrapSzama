@@ -9,3 +9,11 @@ body::before {
   height: 100%;
   border-radius: 10px;
 }
+
+.slideshow-container div.slideshow {
+  display: none;
+}
+
+.slideshow-container div.slideshow.active {
+  display: block;
+}
