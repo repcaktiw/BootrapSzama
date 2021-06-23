@@ -1,7 +1,32 @@
 body::before {
   display: block;
   content: '';
-  height: 100px;
+  height: 70px;
+}
+
+#header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)),
+    url(img/foto-header.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+}
+
+.header--box {
+  margin-top: 30vh;
+}
+
+@media (min-width: 768px) {
+  #header {
+    min-height: 90vh;
+  }
+  .header--box {
+    margin-top: 30vh;
+  }
+
+  .header--button {
+    margin-top: 60vh;
+  }
 }
 
 #mapa {
